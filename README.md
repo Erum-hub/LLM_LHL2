@@ -49,7 +49,7 @@ Pre trained model:
 > Final Accuracy Score: **88.6%**
 
 
-![alt text](image-1.png)
+![alt text](image.png)
 
 After hypertuning
 
