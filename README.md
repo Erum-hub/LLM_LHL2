@@ -1,6 +1,6 @@
 # Sentiment Analysis with DistilBERT
 
-Model Repository: efarooqi/sentiment_analysis
+Model Repository: [efarooqi/sentiment_analysis](https://huggingface.co/efarooqi/sentiment_analysis/tree/main)
 
 ## Project Task
 This is a sentiment analysis tool designed to interpret IMDb movie reviews and classify them as either **Positive (1)** or **Negative (0)**. It uses both traditional machine learning and large language models (LLMs), specifically a fine-tuned and optimized version of `distilbert-base-uncased`.
